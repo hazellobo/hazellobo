@@ -19,11 +19,6 @@ You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
 <br />
 
-### Languages and Tools
-
-
-
-
 
 
 
