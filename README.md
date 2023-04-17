@@ -5,15 +5,17 @@
 
 I am a Graduate student at Northeastern University, Boston pursuing my Masters 🎓 in Information Systems. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech
 
-I'm interested in Fullstack Development, Software Engineering, and Site Reliability Engineering! I'm currently working as an graduate teaching assistant at @Northeastern University, USA, resolving student queries and grading their submissions!
+I'm interested in Fullstack Development, Software Engineering, and Site Reliability Engineering! 
 
 Prior to my studies at Northeastern, I worked as a Software Engineer for BNP Paribas, India 
 
 I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
 
+I'm currently working as an Graduate Teaching Assistant at @Northeastern University, USA, resolving student queries and grading their submissions!
+
 I’m currently learning how to design and build cloud native applications for Kubernetes
 
-📫 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
+You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
 <br />
 
