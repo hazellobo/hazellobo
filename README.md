@@ -1,33 +1,28 @@
 
-<!--
-**hazellobo/hazellobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi there 👋 My name is Hazel Lobo
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I am pursuing Masters 🎓 in Information Systems at Northeastern University, Boston. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech
 
-- 🔬 I’m currently working on designing and building cloud native applications for Kubernetes
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
-- 😄 Pronouns: She/Her
+I am a Graduate student at Northeastern University, Boston pursuing my Masters 🎓 in Information Systems. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech
 
+I'm interested in Fullstack Development, Software Engineering, and Site Reliability Engineering! I'm currently working as an graduate teaching assistant at @Northeastern University, USA, resolving student queries and grading their submissions!
+
+Prior to my studies at Northeastern, I worked as a Software Engineer for BNP Paribas, India 
+
+I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
+
+I’m currently learning how to design and build cloud native applications for Kubernetes
+
+📫 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
 <br />
 
 ### Languages and Tools
+
+
+
+
+
 
 
 
