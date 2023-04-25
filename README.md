@@ -14,8 +14,6 @@ I was mainly involved in the development and maintenance of BNP Paribas' Corpora
 
 I'm currently working as an Graduate Teaching Assistant at @Northeastern University, USA, resolving student queries and grading their submissions!
 
-I’m currently learning how to design and build cloud native applications for Kubernetes
-
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
 <br />
