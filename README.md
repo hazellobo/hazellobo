@@ -12,7 +12,7 @@ Prior to my studies at Northeastern, I worked as a Software Engineer for BNP Par
 
 I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
 
-I'm currently working as an Graduate Teaching Assistant at @Northeastern University, USA, resolving student queries and grading their submissions!
+I'm currently working as an Software Developer at @Carhartt Inc., USA
 
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
