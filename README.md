@@ -12,7 +12,7 @@ Prior to my studies at Northeastern, I worked as a Software Engineer for BNP Par
 
 I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
 
-I'm currently working as an Software Developer at @Carhartt Inc., USA
+I'm currently working as a Software Engineer Intern at @Carhartt Inc., USA. I am involved with supporting and enhancing the user experience of their US e-commerce platform
 
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
