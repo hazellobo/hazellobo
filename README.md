@@ -17,10 +17,3 @@ I'm currently working as a Software Engineer Intern at @Carhartt Inc., USA. I am
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
 
 <br />
-
-
-
-
-
-![Hazel Github Stats](https://github-readme-stats.vercel.app/api?username=hazellobo&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazellobo&hide=jupyternotebook&layout=compact)
-
