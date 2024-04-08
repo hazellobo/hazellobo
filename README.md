@@ -8,13 +8,15 @@ I'm a **Tech Enthusiast 💻** passionate about learning and working with new te
 
 I'm interested in Fullstack Development, Software Engineering, and Site Reliability Engineering! 
 
-Prior to my studies at Northeastern, I worked as a Software Engineer for BNP Paribas, India 
+Before my studies at Northeastern, I worked as a Software Engineer for BNP Paribas, India 
 
 I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
 
-I'm currently working as a Software Engineer Intern at @Carhartt Inc., USA. I am involved with supporting and enhancing the user experience of their US e-commerce platform
+Last Year I worked as a Software Engineer Intern at @Carhartt Inc., USA. I am involved with supporting and enhancing the user experience of their US e-commerce platform
 
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
+
+I currently developing a GUI application in JavaFX, and exploring AWS Cloud and DevOps
 
 <br />
 
