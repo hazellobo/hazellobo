@@ -3,8 +3,6 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-
-### About Me
 🎓 Graduate student at Northeastern University, Boston pursuing my Masters in Information Systems.
 
 💻 Tech Enthusiast: Passionate about learning and working with new technologies.
