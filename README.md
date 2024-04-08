@@ -3,21 +3,26 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-I am a Graduate student at Northeastern University, Boston pursuing my Masters 🎓 in Information Systems. 
-I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech
 
-I'm interested in Fullstack Development, Software Engineering, and Site Reliability Engineering! 
+### About Me
+🎓 Graduate student at Northeastern University, Boston pursuing my Masters in Information Systems.
 
-Before my studies at Northeastern, I worked as a Software Engineer for BNP Paribas, India 
+💻 Tech Enthusiast: Passionate about learning and working with new technologies.
 
-I was mainly involved in the development and maintenance of BNP Paribas' Corporate banking applications
+### Interests
+Interested in Fullstack Development, Software Engineering, and Site Reliability Engineering!
 
-Last Year I worked as a Software Engineer Intern at @Carhartt Inc., USA. I am involved with supporting and enhancing the user experience of their US e-commerce platform
+### Work Experience
+- **Software Engineer at BNP Paribas, India:** Involved in the development and maintenance of corporate banking applications.
+
+- **Software Engineer Intern at Carhartt Inc., USA:** Supported and enhanced the user experience of the US e-commerce platform.
+
+### Current Projects
+- **GUI Application Development with JavaFX:** Currently developing a GUI application using JavaFX, focusing on creating intuitive user interfaces and seamless user experiences.
+
+- **Exploring AWS Cloud and DevOps:** Actively exploring AWS Cloud services and DevOps practices to enhance scalability, reliability, and automation in software development projects.
 
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/hazel-lobo/)
-
-I currently developing a GUI application in JavaFX, and exploring AWS Cloud and DevOps
-
 <br />
 
 ### Languages and Tools
