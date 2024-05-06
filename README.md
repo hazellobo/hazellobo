@@ -13,7 +13,7 @@ Interested in Fullstack Development, Software Engineering, and Site Reliability 
 ### Work Experience
 - **Software Engineer at BNP Paribas, India:** Involved in the development and maintenance of corporate banking applications.
 
-- **Software Engineer Intern at Carhartt Inc., USA:** Supported and enhanced the user experience of the US e-commerce platform.
+- **Software Engineer at Carhartt Inc., USA:** Supported and enhanced the user experience of the US e-commerce platform.
 
 ### Current Projects
 - **GUI Application Development with JavaFX:** Currently developing a GUI application using JavaFX, focusing on creating intuitive user interfaces and seamless user experiences.
